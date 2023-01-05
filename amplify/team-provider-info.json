@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-packbraintest-dev-00751-authRole",
+      "UnauthRoleArn": "arn:aws:iam::552673436980:role/amplify-packbraintest-dev-00751-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::552673436980:role/amplify-packbraintest-dev-00751-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-packbraintest-dev-00751-deployment",
+      "UnauthRoleName": "amplify-packbraintest-dev-00751-unauthRole",
+      "StackName": "amplify-packbraintest-dev-00751",
+      "StackId": "arn:aws:cloudformation:us-east-1:552673436980:stack/amplify-packbraintest-dev-00751/e80aecc0-8cb6-11ed-bc78-0e23c4409c71",
+      "AmplifyAppId": "diceb0y7jmlcn"
+    }
+  }
+}
